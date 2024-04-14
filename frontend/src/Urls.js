@@ -1,0 +1,1 @@
+export const baseUrl = 'https://books-2-read.onrender.com'
