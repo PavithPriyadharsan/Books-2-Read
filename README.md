@@ -24,4 +24,4 @@ To run the application, use the following command in the root directory:
 
 `npm run dev` in the root directory.
 
-### Live demo : https://books2read-1g2ovwxzm-pavithpriyadharsans-projects.vercel.app/
+### Live demo : https://books2read.vercel.app/
